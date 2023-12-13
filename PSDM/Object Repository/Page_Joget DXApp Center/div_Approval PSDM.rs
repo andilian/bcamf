@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Approval PSDM</name>
+   <tag></tag>
+   <elementGuidId>1c0b41bf-2696-4892-95b7-aafb19629721</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='apps']/li[4]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>869a993d-9e0d-4a5b-a94f-81db552aff36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>userview-name</value>
+      <webElementGuid>00c7cbfb-4fc4-426e-90fc-57be1e46126f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approval PSDM</value>
+      <webElementGuid>9151bfd5-fb16-4dfd-8339-0c70e0883726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;apps&quot;)/li[4]/a[@class=&quot;app-link&quot;]/div[@class=&quot;userview-name&quot;]</value>
+      <webElementGuid>e8ec66f7-afe1-4ff9-b767-0bd57f3ece1d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='apps']/li[4]/a/div</value>
+      <webElementGuid>3270e31f-1fc8-4389-ab1c-d8dc374e0601</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NET RATE'])[1]/following::div[2]</value>
+      <webElementGuid>7ef23986-1eda-4f39-a901-eb0387c07121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APPROVAL NETRATE'])[1]/following::div[3]</value>
+      <webElementGuid>97e15b09-3be8-40a0-8226-1c7170f70cf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AppPSDM'])[1]/preceding::div[1]</value>
+      <webElementGuid>a54e6d5e-61b8-4633-a58d-e872c2dd68e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approval Quota'])[1]/preceding::div[3]</value>
+      <webElementGuid>09b3906b-18ae-40d2-b7a0-2c0b78b72e2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approval PSDM']/parent::*</value>
+      <webElementGuid>f616cb05-1a35-4a8f-9304-06cbff8e7a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/a/div</value>
+      <webElementGuid>a4b9ffd6-25a2-4613-8381-17f83e7c62a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Approval PSDM' or . = 'Approval PSDM')]</value>
+      <webElementGuid>74e8889a-f65c-4163-ba45-4a6a8705a527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

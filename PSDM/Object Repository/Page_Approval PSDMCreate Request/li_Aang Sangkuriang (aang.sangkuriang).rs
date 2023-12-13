@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Aang Sangkuriang (aang.sangkuriang)</name>
+   <tag></tag>
+   <elementGuidId>b183113f-3d6a-46a7-9414-67eed12816ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='approver_chosen']/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Aang Sangkuriang (aang.sangkuriang)' or . = 'Aang Sangkuriang (aang.sangkuriang)') and @ref_element = 'Object Repository/Page_Approval PSDMCreate Request/iframe_Powered by Joget_formGridFrame_formgrid_appr_3808072']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.active-result.highlighted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>df5bbf24-fa99-4f3e-bb08-d5743985a7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result highlighted</value>
+      <webElementGuid>1360d029-a2c6-4df7-ab45-f5bfbb502669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>5891805d-bb6c-47a1-9c71-b68a3c8babe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aang Sangkuriang (aang.sangkuriang)</value>
+      <webElementGuid>3498dd64-985d-4c5e-a1c0-1457a4b78576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approver_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result highlighted&quot;]</value>
+      <webElementGuid>b84c37b9-210a-4b07-8ecd-0aafc4a3b26b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approver_chosen']/div/ul/li</value>
+      <webElementGuid>905cf346-ce84-4579-b3ea-755bd04f9d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approver'])[1]/following::li[1]</value>
+      <webElementGuid>4e9168c6-e179-4d41-a272-7fae828ab8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aang Sangkuriang Mobil (aang_sangkurianga)'])[2]/preceding::li[1]</value>
+      <webElementGuid>318fe851-cafc-42a7-9a59-8a3b85cba630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adhi Purnama (adhi.purnama)'])[2]/preceding::li[2]</value>
+      <webElementGuid>2013fd5d-cddb-40af-a91f-a22e07b034f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>86d31c69-5493-4be6-9b48-ee21ddb69935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Aang Sangkuriang (aang.sangkuriang)' or . = 'Aang Sangkuriang (aang.sangkuriang)')]</value>
+      <webElementGuid>1c00c246-f9b6-40eb-881e-e2eb0e9fb16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

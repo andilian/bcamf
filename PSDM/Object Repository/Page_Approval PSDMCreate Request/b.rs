@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b</name>
+   <tag></tag>
+   <elementGuidId>181fe5dc-0da9-464a-b782-c8801f0448be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='approver_chosen']/a/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>45e8287b-d620-4fe2-9e5c-34a2e0c71d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approver_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]/div[1]/b[1]</value>
+      <webElementGuid>1b5b381d-3393-4740-a13a-de5f9352988e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Approval PSDMCreate Request/iframe_Powered by Joget_formGridFrame_formgrid_appr_4097277</value>
+      <webElementGuid>676c3c7d-5520-4e26-9c89-91a100dc82a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approver_chosen']/a/div/b</value>
+      <webElementGuid>c8fc2aeb-9244-4945-b776-ad92576aa713</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>a6e4e1f5-0dbd-4f63-9999-4f7ff6ff85df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

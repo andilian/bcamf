@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Adi Susanto (adi.susanto)</name>
+   <tag></tag>
+   <elementGuidId>49e1e2a5-5b1e-48a2-9856-d147df3ebafa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.active-result.highlighted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='approver_chosen']/div/ul/li[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b1513649-5652-41e2-80fb-4a9cba7bcaef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>active-result highlighted</value>
+      <webElementGuid>de4698a1-b76f-4222-a3e1-0ecf4be093d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-option-array-index</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>3915e689-53eb-4a45-9d1f-1373431a4405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adi Susanto (adi.susanto)</value>
+      <webElementGuid>ed44ab4c-97b0-4a6a-ad59-73317a573af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approver_chosen&quot;)/div[@class=&quot;chosen-drop&quot;]/ul[@class=&quot;chosen-results&quot;]/li[@class=&quot;active-result highlighted&quot;]</value>
+      <webElementGuid>8e025efd-5ef8-4f40-8458-1e8b13b8b527</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approver_chosen']/div/ul/li[4]</value>
+      <webElementGuid>4d4ae4cb-ba9a-462b-8922-a0f265160cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adhi Purnama (adhi.purnama)'])[2]/following::li[1]</value>
+      <webElementGuid>2c74af1c-0e77-40d5-ac96-34512da1e10a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aang Sangkuriang Mobil (aang_sangkurianga)'])[2]/following::li[2]</value>
+      <webElementGuid>1a902d53-0de1-48d2-8842-745583b2f090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Doc Img (admin.docimg)'])[2]/preceding::li[1]</value>
+      <webElementGuid>2a427c44-9873-48b0-a831-a40efaecd613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='admin joget (admin.joget)'])[2]/preceding::li[2]</value>
+      <webElementGuid>675fa1c8-6bc1-4538-a7b1-f831e25c8886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]</value>
+      <webElementGuid>f776075c-85ca-466d-b926-3f41ea0eb4c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Adi Susanto (adi.susanto)' or . = 'Adi Susanto (adi.susanto)')]</value>
+      <webElementGuid>f07a30aa-9dca-4600-91df-894387027029</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Approver_chosen-single chosen-default</name>
+   <tag></tag>
+   <elementGuidId>ac3025f9-d52e-4ed6-bac3-0af6c584c987</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='approver_chosen']/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'chosen-single chosen-default' and @ref_element = 'Object Repository/Page_Approval PSDMCreate Request/iframe_Powered by Joget_formGridFrame_formgrid_appr_4097277']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chosen-single.chosen-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4a09d231-528c-42d8-9400-b54b069e064d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chosen-single chosen-default</value>
+      <webElementGuid>4101b062-42cd-4af0-ae62-9101d5d18402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>09d2ff8c-1ee2-4669-8914-048471c70df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;approver_chosen&quot;)/a[@class=&quot;chosen-single chosen-default&quot;]</value>
+      <webElementGuid>1db03277-5c8e-4ffc-9c9c-7857d5dcf0a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='approver_chosen']/a</value>
+      <webElementGuid>1e5f0367-66bd-4ab3-981a-f47047a06f9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approver'])[1]/following::a[1]</value>
+      <webElementGuid>1ac39a89-03b2-4744-998a-68b4b1559965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jabatan'])[1]/preceding::a[1]</value>
+      <webElementGuid>6e300a16-95aa-4e85-b1aa-6c07e106fa53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>d8b8ae65-bc88-47b8-9599-f36e6da192a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
